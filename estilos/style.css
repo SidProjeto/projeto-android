@@ -100,7 +100,8 @@ section  h2{
     font-family: 'idroid';
     font-size: 17px;
     color: #119935;
-    background-image: linear-gradient(to right, rgba(15, 245, 15, 0.452), white); 
+    background-image: linear-gradient(to right, rgba(15, 245, 15, 0.452), white);
+    padding: 2px 10px;
 }
 article {
     padding: 10px 20px;
